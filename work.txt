@@ -1,2 +1,3 @@
 github ssh connect and push/pull test
 1. push
+2. modify work.txt and push
